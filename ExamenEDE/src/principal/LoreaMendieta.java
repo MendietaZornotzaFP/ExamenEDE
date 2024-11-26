@@ -10,6 +10,7 @@ public class LoreaMendieta{
         int[] operandos = new int [2];
         
         Operaciones operaciones = new Operaciones();
+        //Prueba
        
         System.out.print ("Operando 1: ");
         operandos [0] = teclado.nextInt();
